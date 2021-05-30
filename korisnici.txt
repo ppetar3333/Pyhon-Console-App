@@ -1,0 +1,12 @@
+petar123,petar321,petar,petrovic,0616517621,petar@gmail.com,,KORISNIK,False
+marko123,marko321,marko,markovic,0627832172,marko@gmail.com,,KORISNIK,False
+jovan123,jovan321,jovan,jovanovic,0621796732,jovan@gmail.com,,KORISNIK,False
+janko123,janko321,janko,jankovic,0638632951,janko@gmail.com,,KORISNIK,False
+stefan123,stefan321,stefan,stefanovic,0654231991,stefan@gmail.com,,KORISNIK,False
+milos123,milos321,milos,milosic,065321215,milos@gmail.com,121212,RECEPCIONER,False
+steva123,steva321,steva,stevic,065123456,steva@gmail.com,141414,RECEPCIONER,False
+milica123,milica321,milica,milic,0621712345,milica@gmail.com,161616,RECEPCIONER,False
+jovana123,jovana321,jovana,jovanovic,0638632932,jovana@gmail.com,191919,RECEPCIONER,False
+dragana123,dragana321,dragana,draganic,0654231932,dragana@gmail.com,242424,RECEPCIONER,False
+jana123,jana321,jana,janjic,jana@gmail.com,123456,,ADMINISTRATOR,False
+aca123,aca321,aca,petrovic,aca@gmail.com,654321,,ADMINISTRATOR,False

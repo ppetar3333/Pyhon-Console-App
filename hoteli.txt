@@ -1,0 +1,10 @@
+121212,Moskva,Terazije 14,25,da,da,4.4,False
+131313,Pupin,Moskrijeva 12,55,da,ne,3.9,False
+141414,Dostojevski,Preletacevic 18,12,ne,da,5.0,False
+151515,Prezident,Jovanoviceva 49,28,ne,ne,4.7,False
+161616,Vila Park,Dunavska 34,13,da,da,4.9,False
+171717,Juznjak,Tomoviceva 8,120,da,da,3.9,False
+181818,Oronulic,Brace Jerkovic 24,19,ne,ne,3.0,False
+191919,Seraton,Jugovic 11,70,da,da,4.2,False
+212121,Nis,Konjarnik 31,35,ne,da,3.5,False
+242424,Predejane,Jevrejska 22,10,ne,ne,2.5,False
